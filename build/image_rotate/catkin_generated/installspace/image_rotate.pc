@@ -1,0 +1,8 @@
+prefix=/home/alice/Jupyter/pipeline/install
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.13.0
+Cflags: -I/home/alice/Jupyter/pipeline/install/include
+Libs: -L/home/alice/Jupyter/pipeline/install/lib 
+Requires: 

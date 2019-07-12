@@ -1,0 +1,8 @@
+prefix=/home/alice/Jupyter/pipeline/install
+
+Name: depth_image_proc
+Description: Description of depth_image_proc
+Version: 1.13.0
+Cflags: -I/home/alice/Jupyter/pipeline/install/include
+Libs: -L/home/alice/Jupyter/pipeline/install/lib -ldepth_image_proc
+Requires: 

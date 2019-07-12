@@ -1,0 +1,15 @@
+[ 14%] Built target stereo_image_proc_gencfg
+[35m[1mScanning dependencies of target stereo_image_proc[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/stereo_image_proc.dir/src/libstereo_image_proc/processor.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/stereo_image_proc.dir/src/nodelets/disparity.cpp.o[0m
+[01m[K/home/alice/Jupyter/pipeline/src/image_pipeline/stereo_image_proc/src/libstereo_image_proc/processor.cpp:[m[K In member function ‘[01m[Kstd::__cxx11::string stereo_image_proc::StereoProcessor::processDisparity(const cv::Mat&, const cv::Mat&, const image_geometry::StereoCameraModel&, stereo_msgs::DisparityImage&) const[m[K’:
+[01m[K/home/alice/Jupyter/pipeline/src/image_pipeline/stereo_image_proc/src/libstereo_image_proc/processor.cpp:131:1:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+ [01;31m[K}[m[K
+ [01;31m[K^[m[K
+CMakeFiles/stereo_image_proc.dir/build.make:62: recipe for target 'CMakeFiles/stereo_image_proc.dir/src/libstereo_image_proc/processor.cpp.o' failed
+make[2]: *** [CMakeFiles/stereo_image_proc.dir/src/libstereo_image_proc/processor.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+CMakeFiles/Makefile2:104: recipe for target 'CMakeFiles/stereo_image_proc.dir/all' failed
+make[1]: *** [CMakeFiles/stereo_image_proc.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

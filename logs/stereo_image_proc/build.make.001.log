@@ -1,0 +1,41 @@
+[ 14%] Built target stereo_image_proc_gencfg
+[35m[1mScanning dependencies of target stereo_image_proc[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/stereo_image_proc.dir/src/nodelets/disparity.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/stereo_image_proc.dir/src/libstereo_image_proc/processor.cpp.o[0m
+[01m[K/home/alice/Jupyter/pipeline/src/image_pipeline/stereo_image_proc/src/libstereo_image_proc/processor.cpp:86:13:[m[K [01;31m[Kerror: [m[Kprototype for ‘[01m[Kstd::__cxx11::string stereo_image_proc::StereoProcessor::processDisparity(const cv::Mat&, const cv::Mat&, const image_geometry::StereoCameraModel&, stereo_msgs::DisparityImage&) const[m[K’ does not match any in class ‘[01m[Kstereo_image_proc::StereoProcessor[m[K’
+ std::string [01;31m[KStereoProcessor[m[K::processDisparity(const cv::Mat& left_rect, const cv::Mat& right_rect,
+             [01;31m[K^~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/alice/Jupyter/pipeline/src/image_pipeline/stereo_image_proc/src/libstereo_image_proc/processor.cpp:37:0[m[K:
+[01m[K/home/alice/Jupyter/pipeline/src/image_pipeline/stereo_image_proc/include/stereo_image_proc/processor.h:154:8:[m[K [01;31m[Kerror: [m[Kcandidate is: void stereo_image_proc::StereoProcessor::processDisparity(const cv::Mat&, const cv::Mat&, const image_geometry::StereoCameraModel&, stereo_msgs::DisparityImage&) const
+   void [01;31m[KprocessDisparity[m[K(const cv::Mat& left_rect, const cv::Mat& right_rect,
+        [01;31m[K^~~~~~~~~~~~~~~~[m[K
+CMakeFiles/stereo_image_proc.dir/build.make:62: recipe for target 'CMakeFiles/stereo_image_proc.dir/src/libstereo_image_proc/processor.cpp.o' failed
+make[2]: *** [CMakeFiles/stereo_image_proc.dir/src/libstereo_image_proc/processor.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/home/alice/Jupyter/pipeline/src/image_pipeline/stereo_image_proc/src/nodelets/disparity.cpp:39[m[K:
+[01m[K/home/alice/Jupyter/pipeline/src/image_pipeline/stereo_image_proc/src/nodelets/disparity.cpp:[m[K In member function ‘[01m[Kvoid stereo_image_proc::DisparityNodelet::imageCb(const ImageConstPtr&, const CameraInfoConstPtr&, const ImageConstPtr&, const CameraInfoConstPtr&)[m[K’:
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;31m[Kerror: [m[Kinvalid use of void expression
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;31m[K)[m[K
+                                                                                                                                                                                [01;31m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_WARN(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/alice/Jupyter/pipeline/src/image_pipeline/stereo_image_proc/src/nodelets/disparity.cpp:200:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+   [01;36m[KR[m[KOS_WARN(block_matcher_.processDisparity(l_image, r_image, model_, *disp_msg));
+   [01;36m[K^[m[K
+CMakeFiles/stereo_image_proc.dir/build.make:86: recipe for target 'CMakeFiles/stereo_image_proc.dir/src/nodelets/disparity.cpp.o' failed
+make[2]: *** [CMakeFiles/stereo_image_proc.dir/src/nodelets/disparity.cpp.o] Error 1
+CMakeFiles/Makefile2:104: recipe for target 'CMakeFiles/stereo_image_proc.dir/all' failed
+make[1]: *** [CMakeFiles/stereo_image_proc.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

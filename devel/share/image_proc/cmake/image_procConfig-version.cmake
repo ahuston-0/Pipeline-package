@@ -1,0 +1,1 @@
+/home/alice/Jupyter/pipeline/devel/.private/image_proc/share/image_proc/cmake/image_procConfig-version.cmake

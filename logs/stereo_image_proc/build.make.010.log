@@ -1,0 +1,8 @@
+[ 14%] Built target stereo_image_proc_gencfg
+[35m[1mScanning dependencies of target stereo_image_proc[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/stereo_image_proc.dir/src/libstereo_image_proc/processor.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/stereo_image_proc.dir/src/nodelets/disparity.cpp.o[0m
+[ 57%] [32m[1mLinking CXX shared library /home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/libstereo_image_proc.so[0m
+[ 71%] Built target stereo_image_proc
+[ 85%] [32m[1mLinking CXX executable /home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/stereo_image_proc/stereo_image_proc[0m
+[100%] Built target stereoimageproc_exe

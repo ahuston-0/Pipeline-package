@@ -1,0 +1,14 @@
+image_pipeline/stereo_image_proc
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/cmake.lock /home/alice/Jupyter/pipeline/devel/./cmake.lock
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/share/stereo_image_proc/cmake/stereo_image_procConfig.cmake /home/alice/Jupyter/pipeline/devel/share/stereo_image_proc/cmake/stereo_image_procConfig.cmake
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/share/stereo_image_proc/cmake/stereo_image_procConfig-version.cmake /home/alice/Jupyter/pipeline/devel/share/stereo_image_proc/cmake/stereo_image_procConfig-version.cmake
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/share/stereo_image_proc/docs/DisparityConfig-usage.dox /home/alice/Jupyter/pipeline/devel/share/stereo_image_proc/docs/DisparityConfig-usage.dox
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/share/stereo_image_proc/docs/DisparityConfig.wikidoc /home/alice/Jupyter/pipeline/devel/share/stereo_image_proc/docs/DisparityConfig.wikidoc
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/share/stereo_image_proc/docs/DisparityConfig.dox /home/alice/Jupyter/pipeline/devel/share/stereo_image_proc/docs/DisparityConfig.dox
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/include/stereo_image_proc/DisparityConfig.h /home/alice/Jupyter/pipeline/devel/include/stereo_image_proc/DisparityConfig.h
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/libstereo_image_proc.so /home/alice/Jupyter/pipeline/devel/lib/libstereo_image_proc.so
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/python2.7/dist-packages/stereo_image_proc/__init__.py /home/alice/Jupyter/pipeline/devel/lib/python2.7/dist-packages/stereo_image_proc/__init__.py
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/python2.7/dist-packages/stereo_image_proc/cfg/DisparityConfig.py /home/alice/Jupyter/pipeline/devel/lib/python2.7/dist-packages/stereo_image_proc/cfg/DisparityConfig.py
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/python2.7/dist-packages/stereo_image_proc/cfg/__init__.py /home/alice/Jupyter/pipeline/devel/lib/python2.7/dist-packages/stereo_image_proc/cfg/__init__.py
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/stereo_image_proc/stereo_image_proc /home/alice/Jupyter/pipeline/devel/lib/stereo_image_proc/stereo_image_proc
+/home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/pkgconfig/stereo_image_proc.pc /home/alice/Jupyter/pipeline/devel/lib/pkgconfig/stereo_image_proc.pc

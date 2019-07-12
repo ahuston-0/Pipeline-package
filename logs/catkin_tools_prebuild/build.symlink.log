@@ -1,0 +1,12 @@
+Symlinking /home/alice/Jupyter/pipeline/devel/./local_setup.sh
+Symlinking /home/alice/Jupyter/pipeline/devel/./env.sh
+Symlinking /home/alice/Jupyter/pipeline/devel/./setup.bash
+Symlinking /home/alice/Jupyter/pipeline/devel/./local_setup.bash
+Symlinking /home/alice/Jupyter/pipeline/devel/./setup.zsh
+Symlinking /home/alice/Jupyter/pipeline/devel/./cmake.lock
+Symlinking /home/alice/Jupyter/pipeline/devel/./local_setup.zsh
+Symlinking /home/alice/Jupyter/pipeline/devel/./setup.sh
+Symlinking /home/alice/Jupyter/pipeline/devel/./_setup_util.py
+Symlinking /home/alice/Jupyter/pipeline/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/alice/Jupyter/pipeline/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/alice/Jupyter/pipeline/devel/lib/pkgconfig/catkin_tools_prebuild.pc

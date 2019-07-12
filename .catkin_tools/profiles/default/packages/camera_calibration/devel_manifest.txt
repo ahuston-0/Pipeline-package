@@ -1,0 +1,6 @@
+image_pipeline/camera_calibration
+/home/alice/Jupyter/pipeline/devel/.private/camera_calibration/cmake.lock /home/alice/Jupyter/pipeline/devel/./cmake.lock
+/home/alice/Jupyter/pipeline/devel/.private/camera_calibration/share/camera_calibration/cmake/camera_calibrationConfig.cmake /home/alice/Jupyter/pipeline/devel/share/camera_calibration/cmake/camera_calibrationConfig.cmake
+/home/alice/Jupyter/pipeline/devel/.private/camera_calibration/share/camera_calibration/cmake/camera_calibrationConfig-version.cmake /home/alice/Jupyter/pipeline/devel/share/camera_calibration/cmake/camera_calibrationConfig-version.cmake
+/home/alice/Jupyter/pipeline/devel/.private/camera_calibration/lib/python2.7/dist-packages/camera_calibration/__init__.py /home/alice/Jupyter/pipeline/devel/lib/python2.7/dist-packages/camera_calibration/__init__.py
+/home/alice/Jupyter/pipeline/devel/.private/camera_calibration/lib/pkgconfig/camera_calibration.pc /home/alice/Jupyter/pipeline/devel/lib/pkgconfig/camera_calibration.pc

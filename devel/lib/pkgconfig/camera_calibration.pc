@@ -1,0 +1,1 @@
+/home/alice/Jupyter/pipeline/devel/.private/camera_calibration/lib/pkgconfig/camera_calibration.pc

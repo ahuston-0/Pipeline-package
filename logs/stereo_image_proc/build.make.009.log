@@ -1,0 +1,6 @@
+[ 14%] Built target stereo_image_proc_gencfg
+[ 71%] Built target stereo_image_proc
+[35m[1mScanning dependencies of target stereoimageproc_exe[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/stereoimageproc_exe.dir/src/nodes/stereo_image_proc.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/alice/Jupyter/pipeline/devel/.private/stereo_image_proc/lib/stereo_image_proc/stereo_image_proc[0m
+[100%] Built target stereoimageproc_exe

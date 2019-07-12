@@ -1,0 +1,6 @@
+devel_space: /home/alice/Jupyter/pipeline/devel
+install: false
+install_space: /home/alice/Jupyter/pipeline/install
+profile: default
+source_space: /home/alice/Jupyter/pipeline/src
+workspace: /home/alice/Jupyter/pipeline
